@@ -15,4 +15,5 @@ __pycache__/
 
 # Xcode JUNK
 xcuserdatad/
+xcuserdata/
 xcshareddata/
