@@ -14,6 +14,8 @@ This code is associated with the blog post [Real Time Video Neural Style Transfe
 
 The models in this repository are currently not compressed versions. We plan to add these later.
 
+If anyone with iOS experience is interested in getting this into the app store, please email johnsigmon@gmail.com.
+
 ---
 
 ## Contents
